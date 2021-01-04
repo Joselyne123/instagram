@@ -17,7 +17,7 @@ every user can post any picture by creating and account and view all picture pos
 ## Run
 Use Terminal to open the server and the brouser to run this application
 
-### Behavior Driven Development (BDD)
+
 * Create structure  etc..
 * Create 4 classs areProfile,Image, Followers, Location
 * Create test file to test all your method 
