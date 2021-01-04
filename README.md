@@ -18,7 +18,7 @@ every user can post any picture by creating and account and view all picture pos
 Use Terminal to open the server and the brouser to run this application
 
 
-* Create structure  etc..
+
 * Create 4 classs areProfile,Image, Followers, Location
 * Create test file to test all your method 
 * Create the manage file for used to run all your test
