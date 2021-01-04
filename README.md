@@ -21,7 +21,7 @@ Use Terminal to open the server and the brouser to run this application
 
 
 
-* Create the manage file for used to run all your test
+
 * Create Start.sh to help you to run and open the server
 * Create a config file to link your project qith the database or any url link
 
