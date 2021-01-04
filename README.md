@@ -1,5 +1,5 @@
 
-## By INGABIRE 
+## By INGABIRE Jose
 ## Description
 Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images.
 
