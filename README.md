@@ -1,8 +1,7 @@
 
-
 ## By Dukunde Marie Jeanne
 ## Description
-Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images , 29 September 2019
+Instagram Clone this have dashborad used by admin and by a user,Instagram,Profile and post images.
 
 every user can post any picture by creating and account and view all picture posted those you follower 
 
