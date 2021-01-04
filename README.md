@@ -5,9 +5,7 @@ Instagram  this have dashborad used by admin and by a user,Instagram,Profile and
 
 every user can post any picture by creating and account and view all picture posted those you follower 
 
-## Project instruction 
-to start using this app you can first clone it on github
-and user visual code for writing codes
+
 ## Technology used
 * Python3.6
 * Django
